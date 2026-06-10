@@ -39,7 +39,8 @@ Predict gender:
 python predict_gender.py Manikanta
 ```
 ## output images
-<img width="1920" height="1216" alt="image" src="https://github.com/user-attachments/assets/d8f70c20-cb70-476b-b7e8-49f007f70673" />
+<img width="1920" height="1459" alt="image" src="https://github.com/user-attachments/assets/9cb1e571-659b-46ea-b10a-4698db7da47a" />
+
 <img width="1920" height="2235" alt="image" src="https://github.com/user-attachments/assets/5ecea2eb-41ce-4d45-8141-380952d04817" />
 <img width="1920" height="1112" alt="image" src="https://github.com/user-attachments/assets/a0ec3e77-b8ea-4d77-b44a-7379a718fbd4" />
 
