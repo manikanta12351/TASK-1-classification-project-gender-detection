@@ -36,7 +36,7 @@ python train_model.py
 Predict gender:
 
 ```bash
-python predict_gender.py Prasad
+python predict_gender.py Manikanta
 ```
 ## output images
 <img width="1920" height="1216" alt="image" src="https://github.com/user-attachments/assets/d8f70c20-cb70-476b-b7e8-49f007f70673" />
